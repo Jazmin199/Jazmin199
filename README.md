@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/jazminlmendez">My LinkedIn </a> 
 - 👀 I’m interested in learning artificial intelligence and machine learning.
-- My favourite word: Super-cali-fragi-listi-coespialidoso.
+- ✍🏽My favourite word: Super-cali-fragi-listi-coespialidoso.
 - 🦑 Personal Interest: I love eating seafood and baking few cakes and goodies.
 
 <h4>💼 What & Where I am currently working at/on/as</h4>
