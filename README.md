@@ -1,4 +1,4 @@
-<h3>Hi there! 👋😎 <br>I'm Jazmin Mendez<br>a Web Developer & Engineer</h3>
+<h3>Hi there! Hola!👋😎 <br>I'm Jazmin Mendez<br>a Web Developer & Systems Engineer</h3>
 
 <a href="https://www.linkedin.com/in/jazminlmendez">My LinkedIn </a> 
 <br>
