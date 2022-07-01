@@ -4,7 +4,7 @@
 <br>
 - 👀 I’m interested in learning artificial intelligence and machine learning.
 - ✍🏽 Supercalifragilisticoespialidoso is my favorite word.
-- 🤫 Secret about me: I love eating seafood and baking few cakes and goodies.
+- 🤫 Secret about me: I love eating seafood and baking a few cakes and goodies.
 
 ## <h4>💼  What & Where I am currently working at/on/as</h4>
 <p>
