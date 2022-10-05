@@ -2,6 +2,7 @@
 
 <a href="https://www.linkedin.com/in/jazminlmendez">My LinkedIn </a> 
 <br>
+- 🕵🏻‍♀️ I recently got three awesome GIAC certifications with Sans Institute.
 - 👀 I’m interested in learning artificial intelligence and machine learning.
 - ✍🏽 Supercalifragilisticoespialidoso is my favorite word.
 - 🤫 Secret about me: I love eating seafood and baking a few cakes and goodies.
