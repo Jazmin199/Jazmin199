@@ -2,14 +2,13 @@
 
 <a href="https://www.linkedin.com/in/jazminlmendez">My LinkedIn </a> 
 <br>
-- 🕵🏻‍♀️ I recently got three awesome GIAC certifications with Sans Institute.
+- 🕵🏻‍♀️ I recently got three awesome GIAC certifications with Sans Institute and became an Associate Google Cloud Engineer.
 - 👀 I’m interested in learning artificial intelligence and machine learning.
 - ✍🏽 Supercalifragilisticoespialidoso is my favorite word.
 - 🤫 Secret about me: I love eating seafood and baking a few cakes and goodies.
 
 ## <h4>💼  What & Where I am currently working at/on/as</h4>
 <p>
-<a href="https://stark-spire-19227.herokuapp.com/"> My Favourite Camp </a> <br>
 <a href="https://dry-shelf-90306.herokuapp.com"> Finstagram </a> <br>
 <a href="https://codepen.io/jazmin199"> Responsive Web Design Portfolio </a>
 </p>
